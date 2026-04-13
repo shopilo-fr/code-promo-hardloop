@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-hardloop",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Hardloop depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-hardloop",
+    "bon-de-reduction-hardloop",
+    "coupon-hardloop",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/hardloop.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-hardloop.git"
+  }
+}
